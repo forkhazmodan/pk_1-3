@@ -48,9 +48,9 @@ public class Vector3d {
     public Vector3d sum(Vector3d vector) {
 
         return new Vector3d(
-                round(this.getX() + vector.getX()),
-                round(this.getY() + vector.getY()),
-                round(this.getZ() + vector.getZ())
+            round(this.getX() + vector.getX()),
+            round(this.getY() + vector.getY()),
+            round(this.getZ() + vector.getZ())
         );
     }
 
@@ -63,9 +63,9 @@ public class Vector3d {
     public Vector3d diff(Vector3d vector) {
 
         return new Vector3d(
-                round(this.getX() + vector.getX()),
-                round(this.getY() + vector.getY()),
-                round(this.getZ() + vector.getZ())
+            round(this.getX() + vector.getX()),
+            round(this.getY() + vector.getY()),
+            round(this.getZ() + vector.getZ())
         );
     }
 
