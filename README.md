@@ -1,4 +1,5 @@
-###Useful links:
+###Useful links: 
+
 ####Vectors
 - http://axis.bplaced.net/news/35
 - https://gamedev.ru/code/articles/?id=4184
